@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticasFragmentos</string>
+    <string name="tv1">Nombre: </string>
+    <string name="tv2">Numero: </string>
+    <string name="btAgregar">Agregar</string>
+    <string name="btSalir">Salir</string>
+    <string name="menu_agregar">Agregar</string>
+</resources>
